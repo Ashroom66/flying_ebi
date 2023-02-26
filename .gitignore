@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# ダウンロードした素材
+Assets/Images/fish_ebi.*
+Assets/Images/pipo-*
